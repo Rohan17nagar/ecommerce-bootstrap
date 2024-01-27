@@ -17,9 +17,9 @@ const Home = () => {
                 New Season Arrivals
               </h5>
               <p className='card-text fs-5 d-none d-sm-block text-dark w-50'>
-                This is a wider card with supporting text below as a natural
-                lead-in to additional content. This content is a little bit
-                longer.
+                Unlock a world of perks with our app-exclusive offers. Enjoy a
+                50% discount on your first purchase, and keep an eye out for
+                personalized recommendations crafted just for you.
               </p>
             </div>
           </div>
